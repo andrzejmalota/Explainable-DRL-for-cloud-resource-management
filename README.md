@@ -1,4 +1,4 @@
-# Explainable-DRL-for-cloud-resource-management
+# Master Thesis: System for explaining actions of cloud resource management policies trained with use of Deep Reinforcement Learning
 
 Abstract
 
